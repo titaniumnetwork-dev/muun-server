@@ -1,6 +1,6 @@
 # muun-server
 
-The easiest way to deploy your own (Muun server)[https://muun.cf/]. 
+The easiest way to deploy your own [Muun server](https://muun.cf/). 
 
 Submit an issue with your muun proxie(s) url's to get your server put on the official muun Alt proxy list.
 
