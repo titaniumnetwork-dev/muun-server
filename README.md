@@ -6,4 +6,4 @@ Submit an issue with your muun proxie(s) url's to get your server put on the off
 
 Usage: `https://[your website url]/get?url=[website to proxy]`
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abaijs/muun-server)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/muun-server)
