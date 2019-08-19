@@ -1,0 +1,10 @@
+{
+  "prefix": "get",
+  "mainPagePath": "/index.html",
+  "notFoundPagePath": "/404.html",
+  "ratelimit": {
+    "windowMs": 1000,
+    "max": 50,
+    "message": "Global ratelimit reached."
+  }
+}
