@@ -2,7 +2,7 @@
   "name": "muun-server",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "forever start index.js"
   },
   "dependencies": {
     "@abai/proxy": "^0.0.1",
