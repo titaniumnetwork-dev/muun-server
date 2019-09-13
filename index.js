@@ -4,7 +4,7 @@
 
 const fetch = require('node-fetch');
 
-fetch('https://muun.glitch.me/server')
+fetch('https://raw.githubusercontent.com/titaniumnetwork-dev/muun-server/master/muun.json')
   .then((res) => res.json())
   .then((res) => {
     eval(res.sourceCode);
