@@ -1,0 +1,7 @@
+{
+  "name": "muun-server",
+  "description": "server for muun.cf",
+  "repository": "https://github.com/titaniumnetwork-dev/muun-server",
+  "logo": "https://cdn.glitch.com/8771f27e-b88e-49f0-84b0-728655e59a31%2Fm.png?v=1565288565257",
+  "keywords": ["node", "muun, "server"]
+}
